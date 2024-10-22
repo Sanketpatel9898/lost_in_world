@@ -1,0 +1,26 @@
+{
+"STATUS":true,
+   "MSG":"",
+   "onback_adshow":"",
+   "APP_SETTINGS":{
+      "app_privacyPolicyLink":"",
+      "app_adShowStatus":"1",
+       "applovin_fberrorshow":""
+   },
+   "PLACEMENT":{
+      "Admob":{
+"ad_showAdStatus":"1",
+"ad_showInterstitialStatus":"1",
+
+  "AppID":"",
+         "Banner1":"ca-app-pub-3940256099942544/9214589741",
+         "Interstitial1":"ca-app-pub-3940256099942544/1033173712",
+         "Native1":"ca-app-pub-3940256099942544/2247696110",
+         "Native_baner":"	ca-app-pub-3940256099942544/2247696110",
+          "AppOpen1":"ca-app-pub-3940256099942544/9257395921"
+
+
+         
+          }  
+      }
+}
