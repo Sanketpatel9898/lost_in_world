@@ -9,17 +9,15 @@
    },
    "PLACEMENT":{
       "Admob":{
-
-
-
          "ad_showAdStatus":"1",
          "ad_showInterstitialStatus":"1",
          "AppID":"ca-app-pub-2112447981426945~3577440904",
-         "Banner1":"ca-app-pub-3940256099942544/9214589741",
-         "Interstitial1":"ca-app-pub-3940256099942544/1033173712",
-         "Native1":"ca-app-pub-3940256099942544/2247696110",
-         "Native_baner":"ca-app-pub-3940256099942544/2247696110"
-      
+         "Banner1":"ca-app-pub-2112447981426945/8089492324",
+         "Interstitial1":"ca-app-pub-2112447981426945/2264359232",
+
+         "Native1":"ca-app-pub-2112447981426945/3998428527",
+         "Native_baner":"ca-app-pub-2112447981426945/5654900672"
+       
        }
       
      }
