@@ -2,6 +2,8 @@
 "data":{
    "Google_Banner":"ca-app-pub-3940256099942544\/6300978111",
    "Google_Intertitial":"ca-app-pub-3940256099942544\/1033173712",
+   "Google_Intertitialback":"ca-app-pub-3940256099942544\/1033173712",
+
    "Google_Native":"ca-app-pub-3940256099942544\/2247696110",
    "Google_Native_Banner":"ca-app-pub-3940256099942544\/2247696110",
     "Google_Open":"ca-app-pub-3940256099942544/3419835294",
